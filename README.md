@@ -1,2 +1,2 @@
 # Web-development
-My commercial projects, which I can public. There are also two my first projects.
+Some of my commercial projects. There are also my first-experienced projects
